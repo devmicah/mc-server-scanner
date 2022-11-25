@@ -52,13 +52,14 @@ for ip in input_file.readlines():
             'score': result,
             'player_count': player_count,
             'player_max': player_max,
-            'server_motd': server_motd,
             'server_version': server_version
         }
         if output_bool:
-            output_file.write(str(result_dict))
-        else:
-            print(str(result_dict))
+            try:
+                output_file.write(str(result_dict))
+            except UnicodeEncodeError:
+                print("Could not encode server information! The data for that server was not saved... (" + ip + ")")
+        print(str(result_dict))
 
 input_file.close()
 output_file.close()
