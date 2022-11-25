@@ -1,35 +1,39 @@
-{'ip': '65.109.3.143', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': '1.12.2'}
-{'ip': '136.243.155.31', 'score': 0, 'player_count': 0, 'player_max': 200, 'server_version': '�4Maintenance'}
-{'ip': '162.55.70.228', 'score': 1, 'player_count': 0, 'player_max': 1500, 'server_version': 'Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x'}
-{'ip': '142.132.202.84', 'score': 0, 'player_count': 0, 'player_max': 500, 'server_version': ''}
-{'ip': '85.10.197.184', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': 'feluck.de MCS'}
-{'ip': '116.202.133.164', 'score': 1, 'player_count': 0, 'player_max': 20, 'server_version': '1.18.2'}
-{'ip': '178.63.87.187', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': '1.18.2'}
-{'ip': '135.181.183.83', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': '1.12.2'}
-{'ip': '88.99.57.125', 'score': 1, 'player_count': 0, 'player_max': 69, 'server_version': '1.19.2'}
-{'ip': '65.21.227.91', 'score': 1, 'player_count': 0, 'player_max': 100, 'server_version': 'Paper 1.19.2'}
-{'ip': '157.90.90.100', 'score': 0, 'player_count': 0, 'player_max': 1, 'server_version': '???'}
-{'ip': '144.76.84.59', 'score': 2, 'player_count': 0, 'player_max': 20, 'server_version': '1.19.2'}
-{'ip': '95.217.17.64', 'score': 1, 'player_count': 0, 'player_max': 10, 'server_version': 'Paper 1.19.2'}
-{'ip': '95.217.230.209', 'score': 1, 'player_count': 0, 'player_max': 32, 'server_version': 'Paper 1.19.2'}
-{'ip': '65.109.54.219', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': '1.18.2'}
-{'ip': '167.235.2.119', 'score': 2, 'player_count': 42, 'player_max': 200, 'server_version': 'Velocity 1.7.2-1.19.2'}
-{'ip': '135.181.103.172', 'score': 0, 'player_count': 1, 'player_max': 4, 'server_version': 'Paper 1.14.4'}
-{'ip': '95.217.35.232', 'score': 0, 'player_count': 0, 'player_max': 32, 'server_version': '1.12.2'}
-{'ip': '148.251.20.24', 'score': 1, 'player_count': 0, 'player_max': 99, 'server_version': '1.19.2'}
-{'ip': '144.76.60.183', 'score': 1, 'player_count': 0, 'player_max': 100, 'server_version': 'Paper 1.19.2'}
-{'ip': '116.203.215.76', 'score': 1, 'player_count': 0, 'player_max': 20, 'server_version': '1.18.2'}
-{'ip': '162.55.81.42', 'score': 0, 'player_count': 0, 'player_max': 1000, 'server_version': 'Spigot 1.18.2'}
-{'ip': '144.76.92.151', 'score': 0, 'player_count': 0, 'player_max': 30, 'server_version': 'Spigot 1.11.2'}
-{'ip': '65.108.230.164', 'score': 0, 'player_count': 0, 'player_max': 77, 'server_version': '�4The Legion has arrived! �70�8/�777'}
-{'ip': '157.90.135.135', 'score': 0, 'player_count': 0, 'player_max': 300, 'server_version': 'Paper 1.18.2'}
-{'ip': '195.201.2.41', 'score': 1, 'player_count': 0, 'player_max': 300000, 'server_version': 'Paper 1.19.2'}
-{'ip': '167.235.1.29', 'score': 0, 'player_count': 0, 'player_max': 69, 'server_version': 'forge arclight 1.16.5'}
-{'ip': '78.46.145.151', 'score': 1, 'player_count': 0, 'player_max': 100, 'server_version': 'Velocity 1.7.2-1.19.2'}
-{'ip': '148.251.127.205', 'score': 0, 'player_count': 0, 'player_max': 1, 'server_version': '???'}
-{'ip': '148.251.71.237', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': 'CraftBukkit 1.8.8'}
-{'ip': '65.21.192.149', 'score': 1, 'player_count': 0, 'player_max': 20, 'server_version': 'Velocity 1.7.2-1.19.2'}
-{'ip': '88.99.142.13', 'score': 0, 'player_count': 0, 'player_max': 20, 'server_version': '1.14.4'}
-{'ip': '148.251.127.148', 'score': 0, 'player_count': 0, 'player_max': 75, 'server_version': 'Spigot 1.11'}
-{'ip': '78.47.124.66', 'score': 1, 'player_count': 0, 'player_max': 12, 'server_version': 'Paper 1.19.2'}
-{'ip': '138.201.159.174', 'score': 1, 'player_count': 0, 'player_max': 20, 'server_version': '1.17'}
+{
+  "data": [
+    {"ip": "65.109.3.143", "score": 0, "player_count": 0, "player_max": 20, "server_version": "1.12.2"}, 
+    {"ip": "136.243.155.31", "score": 0, "player_count": 0, "player_max": 200, "server_version": "�4Maintenance"}, 
+    {"ip": "162.55.70.228", "score": 1, "player_count": 0, "player_max": 1500, "server_version": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x"}
+    {"ip": "142.132.202.84", "score": 0, "player_count": 0, "player_max": 500, "server_version": ""}, 
+    {"ip": "85.10.197.184", "score": 0, "player_count": 0, "player_max": 20, "server_version": "feluck.de MCS"}, 
+    {"ip": "116.202.133.164", "score": 1, "player_count": 0, "player_max": 20, "server_version": "1.18.2"}, 
+    {"ip": "178.63.87.187", "score": 0, "player_count": 0, "player_max": 20, "server_version": "1.18.2"}, 
+    {"ip": "135.181.183.83", "score": 0, "player_count": 0, "player_max": 20, "server_version": "1.12.2"}, 
+    {"ip": "88.99.57.125", "score": 1, "player_count": 0, "player_max": 69, "server_version": "1.19.2"}, 
+    {"ip": "65.21.227.91", "score": 1, "player_count": 0, "player_max": 100, "server_version": "Paper 1.19.2"}, 
+    {"ip": "157.90.90.100", "score": 0, "player_count": 0, "player_max": 1, "server_version": "???"}, 
+    {"ip": "144.76.84.59", "score": 2, "player_count": 0, "player_max": 20, "server_version": "1.19.2"}, 
+    {"ip": "95.217.17.64", "score": 1, "player_count": 0, "player_max": 10, "server_version": "Paper 1.19.2"}, 
+    {"ip": "95.217.230.209", "score": 1, "player_count": 0, "player_max": 32, "server_version": "Paper 1.19.2"}, 
+    {"ip": "65.109.54.219", "score": 0, "player_count": 0, "player_max": 20, "server_version": "1.18.2"}, 
+    {"ip": "167.235.2.119", "score": 2, "player_count": 42, "player_max": 200, "server_version": "Velocity 1.7.2-1.19.2"}, 
+    {"ip": "135.181.103.172", "score": 0, "player_count": 1, "player_max": 4, "server_version": "Paper 1.14.4"}, 
+    {"ip": "95.217.35.232", "score": 0, "player_count": 0, "player_max": 32, "server_version": "1.12.2"}, 
+    {"ip": "148.251.20.24", "score": 1, "player_count": 0, "player_max": 99, "server_version": "1.19.2"}, 
+    {"ip": "144.76.60.183", "score": 1, "player_count": 0, "player_max": 100, "server_version": "Paper 1.19.2"}, 
+    {"ip": "116.203.215.76", "score": 1, "player_count": 0, "player_max": 20, "server_version": "1.18.2"}, 
+    {"ip": "162.55.81.42", "score": 0, "player_count": 0, "player_max": 1000, "server_version": "Spigot 1.18.2"}, 
+    {"ip": "144.76.92.151", "score": 0, "player_count": 0, "player_max": 30, "server_version": "Spigot 1.11.2"}, 
+    {"ip": "65.108.230.164", "score": 0, "player_count": 0, "player_max": 77, "server_version": "�4The Legion has arrived! �70�8/�777"}, 
+    {"ip": "157.90.135.135", "score": 0, "player_count": 0, "player_max": 300, "server_version": "Paper 1.18.2"}, 
+    {"ip": "195.201.2.41", "score": 1, "player_count": 0, "player_max": 300000, "server_version": "Paper 1.19.2"}, 
+    {"ip": "167.235.1.29", "score": 0, "player_count": 0, "player_max": 69, "server_version": "forge arclight 1.16.5"},
+    {"ip": "78.46.145.151", "score": 1, "player_count": 0, "player_max": 100, "server_version": "Velocity 1.7.2-1.19.2"}, 
+    {"ip": "148.251.127.205", "score": 0, "player_count": 0, "player_max": 1, "server_version": "???"}, 
+    {"ip": "148.251.71.237", "score": 0, "player_count": 0, "player_max": 20, "server_version": "CraftBukkit 1.8.8"}, 
+    {"ip": "65.21.192.149", "score": 1, "player_count": 0, "player_max": 20, "server_version": "Velocity 1.7.2-1.19.2"}, 
+    {"ip": "88.99.142.13", "score": 0, "player_count": 0, "player_max": 20, "server_version": "1.14.4"}, 
+    {"ip": "148.251.127.148", "score": 0, "player_count": 0, "player_max": 75, "server_version": "Spigot 1.11"}, 
+    {"ip": "78.47.124.66", "score": 1, "player_count": 0, "player_max": 12, "server_version": "Paper 1.19.2"}, 
+    {"ip": "138.201.159.174", "score": 1, "player_count": 0, "player_max": 20, "server_version": "1.17"},
+    ]
+}
