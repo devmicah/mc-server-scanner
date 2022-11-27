@@ -35,6 +35,7 @@ do_output = input("Output files to external document?: ")
 output_bool = False
 if do_output.upper() == "TRUE" or do_output.upper() == "Y" or do_output.upper() == "YES":
     output_file = open("output.json", "w")
+    output_file.write("[")
     output_bool = True
     print("Outputting all information to 'output.json'")
 
@@ -52,14 +53,15 @@ for ip in input_file.readlines():
             'score': result,
             'player_count': player_count,
             'player_max': player_max,
-            'server_version': server_version
+            'server_version': server_version,
         }
         if output_bool:
             try:
-                output_file.write(str(result_dict))
+                output_file.write(str(result_dict) + ",")
             except UnicodeEncodeError:
                 print("Could not encode server information! The data for that server was not saved... (" + ip + ")")
         print(str(result_dict))
 
 input_file.close()
+output_file.write("]")
 output_file.close()
